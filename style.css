@@ -192,6 +192,13 @@ textarea::placeholder {
 .Guarante p{
    font-style: italic;
 }
+.confidential img{
+    position: absolute;
+    width: 200px;
+    height: 60px;
+   bottom: 120px;
+   margin-left: 335px;
+   transform: rotate(10deg);
 #askusbtn{
     width: 10px;
     height: 14px;
